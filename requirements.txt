@@ -1,1 +1,9 @@
-
+python-telegram-bot
+flask
+python-dotenv
+yt-dlp
+ffmpeg-python
+openai
+psycopg2-binary
+requests
+wikipedia-api
